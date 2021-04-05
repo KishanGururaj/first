@@ -1,0 +1,4 @@
+hello
+ this my first commit 
+  wrote inside nano command 
+
